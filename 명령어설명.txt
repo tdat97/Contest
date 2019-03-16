@@ -1,0 +1,16 @@
+git init					해당폴더에서 입력
+git remote add origin (repository address)	사이트에서 주소복사후
+					이미 있다하면 .git폴더 지우고 다시
+
+PULL(내려받기)
+git pull origin master		지정 해놓은 Repository에서 끌어옵니다.
+
+
+PUSH(올리기)
+git status				현재 Git 과의 상태를 Check
+git add .				변경된 파일들을 모두 Tracking
+git commit -m "message"		인식 할 수 있는 commit을 달아줍니다.
+git push origin +master		실제로 Git에 PUSH
+
+
+
