@@ -1,5 +1,5 @@
 초기설정
-git init					해당폴더에서 입력
+git init					연동할 폴더에서 입력
 git remote add origin (repository address)	사이트에서 주소복사후
 					이미 있다하면 .git폴더 지우고 다시
 
